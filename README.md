@@ -10,7 +10,7 @@ One of the most important parts of any learning process it the resolution of pra
 
 ## Must Read
 - Read [Learn you some Erlang for great good](http://learnyousomeerlang.com/)
-- [Erlang and code style](https://medium.com/@jlouis666/erlang-and-code-style-b5936dceb5e4)
+- [Erlang and code style](https://medium.com/jlouis666/erlang-and-code-style-b5936dceb5e4)
 - Read our [guidelines](https://github.com/lambdaclass/guidelines)
 
 ## Exercises

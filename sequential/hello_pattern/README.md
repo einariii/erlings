@@ -14,6 +14,6 @@ In this exercise we will introduce you to pattern matching and guards. Write a f
 - `{math_class, Number, Name}`. If the number is lower than zero, return
   `none`, in any other case return `{math_class, Name}`.
 
-Resolve this exercise without using `if`, `case`. You should use pattern matching and guard only.
+Resolve this exercise without using `if` or `case`. You should use pattern matching and guard only.
 
 Check if your solution is working running `make`. And if your find your self in trouble you can always check our [suggested solution](solution/hello_pattern.erl).
